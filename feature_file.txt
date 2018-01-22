@@ -1,1 +1,2 @@
 Inserting data to feature file
+Added new changes to the feature
