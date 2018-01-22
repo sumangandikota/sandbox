@@ -1,2 +1,4 @@
+Line one in fileThree text - adding lines for conflict
+Line two from myproject
 Line one in fileThree text - adding additional line 
 Line two in file three from sandbox
