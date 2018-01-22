@@ -1,1 +1,2 @@
-Line one in fileThree text
+Line one in fileThree text - adding additional line 
+Line two in file three from sandbox
