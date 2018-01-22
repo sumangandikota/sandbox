@@ -1,1 +1,2 @@
 Inserting data to feature file
+bug fix in feature file
