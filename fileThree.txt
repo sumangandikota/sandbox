@@ -1,1 +1,2 @@
-Line one in fileThree text
+Line one in fileThree text - adding lines for conflict
+Line two from myproject
